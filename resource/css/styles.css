@@ -1,0 +1,40 @@
+body{
+    position:absolute;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#banner-title h1{
+    background-image: url(../images/pattern.webp);
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    
+    text-align: center;
+}
+
+a {
+    font-weight: bold;
+    color: blue;
+}
+
+article h2{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#banner-brushes h2{
+    background-color: mediumspringgreen;
+}
+
+#banner-frames h2{
+    background-color: lightcoral;
+}
+
+#banner-paint h2{
+    background-color: skyblue;
+}
+
+p {
+    text-align:justify;
+}
